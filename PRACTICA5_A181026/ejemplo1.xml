@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/NIKMO/Documents/UNACH/S9/Servicios%20Web/practica5_A171281/ejemplo1.xsl"?>
+
+<perros>
+    <perro>
+      <nombrehunter</nombre>
+      <edad>2 año</edad>
+    </perro>
+    <perro>
+      <nombre>estrella</nombre>
+      <edad>5 años</edad>
+    </perro>
+    <perro>
+      <nombre>Filomena</nombre>
+      <edad>6 meses</edad>
+    </perro>
+</perros>
